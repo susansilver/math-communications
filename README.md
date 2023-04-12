@@ -13,7 +13,7 @@ I feel that this project can solve three problems:
 - Connect people in science communications
 - Give teachers and parents ways to help children when they are struggling with math
 
-## Table of Contents (Optional)
+## Table of Contents
 
 
 ## Badges
