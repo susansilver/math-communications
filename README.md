@@ -9,9 +9,9 @@ In my response, there was no way to mention everything out there. I complied thi
 I have since realized that this no longer just a list. It is a passion project. If you have any reccomendations, [send them my way](mailto:hello+git@susansilver.net).
 
 I feel that this project can solve three problems:
-- Provide an entryway into mathemathtics for the cuious
+- Provide an entryway into mathematics for the cuious
 - Connect people in science communications
-- Give teachers and parents ways to help children when they are struggling with math.
+- Give teachers and parents ways to help children when they are struggling with math
 
 ## Table of Contents (Optional)
 
