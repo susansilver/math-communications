@@ -42,7 +42,7 @@ If you followed tutorials, include links to those here as well.
 
 ## Badges
 
-![GitHub Repo stars](https://img.shields.io/github/stars/susansilver/math-communication?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/susansilver/math-communications?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/susansilver/math-communications?style=social)
 
 
