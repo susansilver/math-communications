@@ -1,54 +1,26 @@
-# <Your-Project-Title>
+# Meet the Storytellers Who Bring Mathematics to Life
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+My friend asked me if mathematics communication existed. My reaction was vicereal. Tense and on the defensive, I realized that I was over reacting. So I calmed down before responding. I replied with a few Tweets highlighting some of my favorite mathematical storytellers.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In my response, there was no way to mention everything out there. I complied this list as a way to give credit to everyone. Resources that I've collected from over a decade of unabashedly revelng in my love mathematics. To my surpise the list begun to grow to more than 100 links! 
+
+I have since realized that this no longer just a list. It is a passion project. If you have any reccomendations, [send them my way](mailto:hello+git@susansilver.net).
+
+I feel that this project can solve three problems:
+- Provide an entryway into mathemathtics for the cuious
+- Connect people in science communications
+- Give teachers and parents ways to help children when they are struggling with math.
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## Badges
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/susansilver/math-communications?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/susansilver/math-communications?style=social)
-
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+.
 
 ## License
 
