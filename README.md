@@ -4,7 +4,7 @@
 
 A friend asked me if mathematics communication existed. My reaction was vicereal. Tense and on the defensive, I realized that I was over reacting. So I calmed down before responding. I replied with a few Tweets highlighting some of my favorite mathematical storytellers.
 
-In my response, there was no way to mention everything out there. I complied this list as a way to give credit to everyone. Resources that I've collected from over a decade of unabashedly revelng in my love mathematics. To my surpise the list begun to grow to more than 100 links!
+In my response, there was no way to mention everything out there. I compiled this list as a way to give credit to everyone. Resources that I've collected from over a decade of unabashedly revelng in my love mathematics. To my surpise the list begun to grow to more than 100 links!
 
 I have since realized that this no longer just a list. It is a passion project. If you have any reccomendations, [send them my way](mailto:hello+git@susansilver.net).
 
@@ -13,7 +13,7 @@ I feel that this project can solve three problems:
 - Connect people in science communications
 - Give teachers and parents ways to help children when they are struggling with math
 
-This list also appears on [Beauty of Mathematics](https://Beautyofmathematics.com/math-communication) and can be duplicated on [Notion](https://www.notion.so/suzza-silver/Epic-List-of-Math-Communicators-d2fee910dc5c4b92bb9f439c6ffd9550)
+This list also appears on [Beauty of Mathematics](https://Beautyofmathematics.com/math-communication) and can be duplicated on [Notion](https://suzza-silver.notion.site/suzza-silver/Epic-List-of-Math-Communicators-d2fee910dc5c4b92bb9f439c6ffd9550)
 
 ## Table of Contents
 - [Television](/Television/)
