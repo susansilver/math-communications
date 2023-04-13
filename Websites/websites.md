@@ -1,0 +1,26 @@
+1. [Wolfram Alpha](https://www.wolframalpha.com/)
+2. [Wolfram MathWorld](https://mathworld.wolfram.com/)
+3. [Math Communications Wiki](https://www.mathcom.wiki/index.php?title=Main_Page)
+4. [Khan Academy](https://www.khanacademy.org/)
+5. [Free Code Camp](https://www.freecodecamp.org/)
+6. [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+7. [Free Computer Programming Books](https://github.com/EbookFoundation/free-programming-books)
+8. [Free for Devs](https://free-for.dev/#/)
+9. [The On-Line Encyclopedia of Integer Sequences® (OEIS®](https://oeis.org/))
+10. [History of Mathematics Project](https://history-of-mathematics.org/)
+11. [Cut-the-Knot ](http://www.cut-the-knot.org/)
+12. [On This Day](https://www.maa.org/news/on-this-day) 
+13. [Numbers API](http://numbersapi.com/)
+14. [Biographies of Women Mathematicians](https://mathwomen.agnesscott.org/women/women.htm)
+15. [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/)
+16. [Lists of mathematicians to follow](https://truesciphi.org/home_mat.html)
+17. [Strengthening Underrepresented Minority Mathematics Achievement (SUMMA)](https://www.maa.org/programs-and-communities/outreach-initiatives/summa/summa-archival-record)
+19. [Indigenous Mathematicians](https://indigenousmathematicians.org/)
+19. [Black In Math](https://twitter.com/blackinmath)
+20. [Aces in STEM](https://twitter.com/AsexualSTEM)
+
+These resources come from Annie Perkins via her Blog “Arbitrarily Close”
+
+21. [Links to Resources on Not Just White Dude Mathematicians](https://arbitrarilyclose.com/links-to-resources-on-not-just-white-dude-mathematicians/)
+22. [Mathematicians Project](https://arbitrarilyclose.com/mathematician-project/)
+
