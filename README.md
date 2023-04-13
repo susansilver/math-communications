@@ -1,12 +1,14 @@
 # The Storytellers Who Bring Mathematics to Life
 
+![Graffit on brick wall reds Everything has Beauty but not everyone can see it ](/img/everything-has-beauty.jpg)
+
 ## Description
 
-A friend asked me if mathematics communication existed. My reaction was vicereal. Tense and on the defensive, I realized that I was over reacting. So I calmed down before responding. I replied with a few Tweets highlighting some of my favorite mathematical storytellers.
+A friend asked me if mathematics communication existed. My reaction was visceral. Tense and on the defensive, I realized that I was overreacting. So I calmed down before responding. I replied with a few Tweets highlighting some of my favorite mathematical storytellers.
 
-In my response, there was no way to mention everything out there. I compiled this list as a way to give credit to everyone. Resources that I've collected from over a decade of unabashedly revelng in my love mathematics. To my surpise the list begun to grow to more than 100 links!
+In my response, there was no way to mention everything out there. I compiled this list as a way to give credit to everyone. Resources that I've collected from over a decade of unabashedly reveling in my love of mathematics. To my surprise, the list began to grow to more than 100 links!
 
-I have since realized that this no longer just a list. It is a passion project. If you have any reccomendations, [send them my way](mailto:hello+git@susansilver.net).
+I have since realized that this is no longer just a list. It is a passion project. If you have any recommendations, [send](mailto:hello+git@susansilver.net) them my way](mailto:hello+git@susansilver.net).
 
 I feel that this project can solve three problems:
 - Provide an entryway into mathematics for the curious
