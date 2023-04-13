@@ -19,6 +19,6 @@ This is what I would tell my younger math anxious self. It matters far less what
 8. I will admit, I have not seen this documentary. I wanted to add it to the list since[ it is about the first woman to win the Fields Medal, Maryam Mirzakhani](http://www.zalafilms.com/secrets/). The movie is **Secrets of the Surface**. It is an important story so I don’t mind recommending it sight unseen. [International Women in Mathematics Day](https://may12.womeninmaths.org/) is on May 12th, Mirzakhani’s birthday. She passed away in 2017. 
 9. One documentary that I really liked was **Between the Folds** which is about origami. Paper folding often takes on modular and geometric forms, making it great for math art. There is a history of studying the subject in mathematics.
 
-[![Full Documentary Between The Folds](https://img.youtube.com/vi/ekPv6osml4I/0.jpg)](https://www.youtube.com/watch?v=ekPv6osml4I)
+[![Between The Folds Trailer](https://img.youtube.com/vi/ekPv6osml4I/0.jpg)](https://www.youtube.com/watch?v=ekPv6osml4I)
 
 10. This movie is not for kids. If you don’t mind a story that gets dark, then you might like **Pi**. Described as a psychological thriller. I’m not sure if this is exactly a math movie. Though numbers are essential to the plot. I put [some math songs on my playlist](https://beautyofmathematics.com/math-love-songs/) that only feature numbers. So I am going to include this one.
