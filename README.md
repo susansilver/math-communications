@@ -17,6 +17,12 @@ I feel that this project can solve three problems:
 
 This list also appears on [Beauty of Mathematics](https://Beautyofmathematics.com/math-communication) and can be duplicated on [Notion](https://suzza-silver.notion.site/suzza-silver/Epic-List-of-Math-Communicators-d2fee910dc5c4b92bb9f439c6ffd9550)
 
+## Badges
+
+![GitHub Repo stars](https://img.shields.io/github/stars/susansilver/math-communications?style=social)
+![GitHub forks](https://img.shields.io/github/forks/susansilver/math-communications?style=social)
+
+
 ## Table of Contents
 - [Television](/Television/)
 - [Films](/Films/)
@@ -38,12 +44,6 @@ This list also appears on [Beauty of Mathematics](https://Beautyofmathematics.co
 - [Math Art](/Math%20Art/)
 - [Mental Health](/Mental%20Health/)
 - [Important Dates](/Important%20Dates/)
-
-## Badges
-
-![GitHub Repo stars](https://img.shields.io/github/stars/susansilver/math-communications?style=social)
-![GitHub forks](https://img.shields.io/github/forks/susansilver/math-communications?style=social)
-.
 
 ## License
 
