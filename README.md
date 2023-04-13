@@ -8,7 +8,7 @@ A friend asked me if mathematics communication existed. My reaction was visceral
 
 In my response, there was no way to mention everything out there. I compiled this list as a way to give credit to everyone. Resources that I've collected from over a decade of unabashedly reveling in my love of mathematics. To my surprise, the list began to grow to more than 100 links!
 
-I have since realized that this is no longer just a list. It is a passion project. If you have any recommendations, [send](mailto:hello+git@susansilver.net) them my way](mailto:hello+git@susansilver.net).
+I have since realized that this is no longer just a list. It is a passion project. If you have any recommendations, [send them my way](mailto:hello+git@susansilver.net).
 
 I feel that this project can solve three problems:
 - Provide an entryway into mathematics for the curious
