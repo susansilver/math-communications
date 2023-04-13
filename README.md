@@ -9,33 +9,33 @@ In my response, there was no way to mention everything out there. I complied thi
 I have since realized that this no longer just a list. It is a passion project. If you have any reccomendations, [send them my way](mailto:hello+git@susansilver.net).
 
 I feel that this project can solve three problems:
--Provide an entryway into mathematics for the curious
--Connect people in science communications
--Give teachers and parents ways to help children when they are struggling with math
+- Provide an entryway into mathematics for the curious
+- Connect people in science communications
+- Give teachers and parents ways to help children when they are struggling with math
 
 This list also appears on [Beauty of Mathematics](Beautyofmathematics.com/math-communication) and [Notion](mathcommunications.com)
 
 ## Table of Contents
--[Television](/Television/)
--[Films](/Films/)
--[Podcasts](/Podcasts/)
--[Video Streaming](/Video%20Streaming/)
+- [Television](/Television/)
+- [Films](/Films/)
+- [Podcasts](/Podcasts/)
+- [Video Streaming](/Video%20Streaming/)
     - [Numberphile](/Video%20SStreaming/Numberphile/)
     - [Videos](/Video%20SStreaming/Videos/)
--[Books](/Books/)
--[Articles](/Articles/)
--[Websites](/Websites/)
--[Blogs](/Blogs/)
--[Locations](/Locations/)
--[Events](/Events/)
--[Gifts](/Gifts/)
--[Social Media](/Social%20Media/)
--[People](/People/)
--[Organizations](/Organizations/)
--[Music](/Music/)
--[Math Art](/Math%20Art/)
--[Mental Health](/Mental%20Health/)
--[Important Dates](/Important%20Dates/)
+- [Books](/Books/)
+- [Articles](/Articles/)
+- [Websites](/Websites/)
+- [Blogs](/Blogs/)
+- [Locations](/Locations/)
+- [Events](/Events/)
+- [Gifts](/Gifts/)
+- [Social Media](/Social%20Media/)
+- [People](/People/)
+- [Organizations](/Organizations/)
+- [Music](/Music/)
+- [Math Art](/Math%20Art/)
+- [Mental Health](/Mental%20Health/)
+- [Important Dates](/Important%20Dates/)
 
 ## Badges
 
