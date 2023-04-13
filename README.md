@@ -13,7 +13,7 @@ I feel that this project can solve three problems:
 - Connect people in science communications
 - Give teachers and parents ways to help children when they are struggling with math
 
-This list also appears on [Beauty of Mathematics](https://Beautyofmathematics.com/math-communication) and can be duplicated on [Notion](https://mathcommunications.com)
+This list also appears on [Beauty of Mathematics](https://Beautyofmathematics.com/math-communication) and can be duplicated on [Notion](https://www.notion.so/suzza-silver/Epic-List-of-Math-Communicators-d2fee910dc5c4b92bb9f439c6ffd9550)
 
 ## Table of Contents
 - [Television](/Television/)
