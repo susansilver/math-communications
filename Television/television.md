@@ -4,6 +4,10 @@
 
 2. When I was a kid, I would watch Saturday Morning Cartoons. So hard to believe that isn’t a thing anymore. It was during this time that ABC would show **Schoolhouse Rock!** segments. Doing research for this, I discovered that [they did a 50th anniversary special this year](https://abc.com/news/insiderwatch-schoolhouse-rock-50th-anniversary-singalong-abc-app-hulu-disney-plus). You can catch clips on YouTube but [you can stream them all on Disney+](https://www.disneyplus.com/series/schoolhouse-rock/4AbEzzTxhWxZ). This is my favorite song from what they call Multiplication Rock. 
 
+[![My Hero Zero Thumbnail]
+(https://img.youtube.com/vi/ulRpKn8aPRU/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=ulRpKn8aPRU)
+
 {% include youtube.html id="ulRpKn8aPRU" %} 
 
 3. **SquareOne TV** is a show that aired on my local PBS station when I was a kid. It was a children’s show that was all about mathematics. I was able to learn the rules for adding and subtracting negative numbers by watching it. You can still find clips on YouTube. 
@@ -14,5 +18,9 @@
 
 5. This one comes from over the pond, **QI**. Which stands for Quite Interesting. This is a panel show where contestants don’t guess the right answer. They come up with the most interesting or funny ones. It was originally hosted by Stephen Fry but now it is Sandi Toksvig. The show features many science questions, and of course, mathematics from time to time. 
 
-{% include youtube.html id="lwfedNylBXU" %}  
+[![QI Math Magic Thumbnail]
+(https://img.youtube.com/vi/lwfedNylBXU/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=lwfedNylBXU)
+
+
 
