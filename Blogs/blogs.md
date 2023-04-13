@@ -1,0 +1,7 @@
+1. [The Aperiodical](https://aperiodical.com/)
+2. [Chalkdust](https://chalkdustmagazine.com/)
+3. [Quanta Magazine](https://www.quantamagazine.org/)
+4. [Math with Bad Drawings](https://mathwithbaddrawings.com/)
+5. [Roots of Unity](https://blogs.scientificamerican.com/roots-of-unity/)
+6. [Plus Magazine](https://plus.maths.org/content/)
+7. [Math3ma](https://www.math3ma.com/)
